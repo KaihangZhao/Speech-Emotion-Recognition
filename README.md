@@ -74,4 +74,5 @@ For the Sequence Model, we also tried deploying Bidirectional GRU, Bidirectional
 | GRU|0.41|
 
 
+<img src="model_performance.png" width="400">
 
